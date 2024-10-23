@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.com/ogabriel/APS-UNIP-7sem.svg?branch=master)](https://travis-ci.com/ogabriel/APS-UNIP-7sem)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 
-# O que é uma APS?
+# O que é uma APS? [Um teste x]
 
 APS, ou, Atividade Prática Supervisionada, é um exercício em grupo feito semestralmente pelos alunos da instituição de ensino UNIP. O tema, indiferente do curso que está sendo prestado, está sempre ligado a soluções sustentáveis ou ao meio ambiente.
 No caso do curso que eu presto, Ciência da computação, além do trabalho escrito, tem de ser entregue uma aplicação, cujo os requisitos são ditados pelo coordenador do curso.
